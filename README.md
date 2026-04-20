@@ -82,8 +82,6 @@ Then move on to task `<NN+1>`. All ten commits land on your branch; you do **not
 | [09](./tasks/09.md) | Add a useful resource link | `docs` |
 | [10](./tasks/10.md) | Document one thing you learned | `docs` |
 
-## On pace
-
 - First three tasks may each take 10-15 minutes. Normal.
 - By task 7, each rep should take under 3 minutes.
 - If task 10 still feels slow, you haven't drilled enough - ask the instructor for 2-3 more bonus tasks and repeat.
