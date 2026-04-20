@@ -10,9 +10,9 @@ resources: 2
 
 ## Background
 
-Git is not something you "learn" the way you learn a theorem. You learn it the way you learn to tie your shoes — by doing the motion until you stop watching your hands. This drill has you run the full Git workflow **ten times** on ten deliberately tiny tasks. The content of each task doesn't matter; the **process** is the point.
+Git is not something you "learn" the way you learn a theorem. You learn it the way you learn to tie your shoes - by doing the motion until you stop watching your hands. This drill has you run the full Git workflow **ten times** on ten deliberately tiny tasks. The content of each task doesn't matter; the **process** is the point.
 
-Companion handbook page: [Module 1 — Program Setup, Git & GitHub](https://lgcc.github.io/modules/01-setup).
+Companion handbook page: [Module 1 - Program Setup, Git & GitHub](https://lgcc.github.io/modules/01-setup).
 
 ## Objectives
 
@@ -31,14 +31,14 @@ status → branch → edit → status → add → commit → push
 git clone git@github.com:ttpr-lgcc/git-flow-drill-lagcc-002.git
 cd git-flow-drill-lagcc-002
 
-# create a branch named after your GitHub username — this is your "workspace" for the drill
+# create a branch named after your GitHub username - this is your "workspace" for the drill
 git checkout -b <your-username>
 
 # push the branch to the remote so it exists on GitHub
 git push -u origin <your-username>
 ```
 
-All ten tasks happen on **your personal branch**. You'll commit ten separate times — once per task — so the instructor can see each rep as its own commit.
+All ten tasks happen on **your personal branch**. You'll commit ten separate times - once per task - so the instructor can see each rep as its own commit.
 
 ### Per-task loop (run this ten times)
 
@@ -84,9 +84,9 @@ Then move on to task `<NN+1>`. All ten commits land on your branch; you do **not
 
 ## On pace
 
-- First three tasks may each take 10–15 minutes. Normal.
+- First three tasks may each take 10-15 minutes. Normal.
 - By task 7, each rep should take under 3 minutes.
-- If task 10 still feels slow, you haven't drilled enough — ask the instructor for 2–3 more bonus tasks and repeat.
+- If task 10 still feels slow, you haven't drilled enough - ask the instructor for 2-3 more bonus tasks and repeat.
 
 ## Reflection (required)
 
@@ -113,5 +113,5 @@ git push
 
 ## Resources
 
-- [Pro Git Book](https://git-scm.com/book/en/v2) — chapters 2 and 3 cover everything in this drill
-- [Oh Shit, Git!?!](https://ohshitgit.com/) — how to undo common mistakes
+- [Pro Git Book](https://git-scm.com/book/en/v2) - chapters 2 and 3 cover everything in this drill
+- [Oh Shit, Git!?!](https://ohshitgit.com/) - how to undo common mistakes
