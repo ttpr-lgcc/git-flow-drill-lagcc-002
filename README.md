@@ -12,7 +12,7 @@ resources: 2
 
 Git is not something you "learn" the way you learn a theorem. You learn it the way you learn to tie your shoes - by doing the motion until you stop watching your hands. This drill has you run the full Git workflow **ten times** on ten deliberately tiny tasks. The content of each task doesn't matter; the **process** is the point.
 
-Companion handbook page: [Module 1 - Program Setup, Git & GitHub](https://lgcc.github.io/modules/01-setup).
+Companion handbook page: [Module 1 - Program Setup, Git & GitHub](https://ttpr-lgcc.github.io/handbook/modules/01-setup).
 
 ## Objectives
 
