@@ -1,0 +1,1 @@
+I am Tashi Dolma Tamang. I am studying Cyber security at Laguardia community college and right now i am eorking on a project named as SOC for fintech company.
