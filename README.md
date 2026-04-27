@@ -99,11 +99,11 @@ git push
 
 ## Checklist
 
-- [ ] My branch `<my-username>` exists on the remote
-- [ ] Ten task files plus one reflection file live in `submissions/<my-username>/`
-- [ ] There are ten commits plus one reflection commit on my branch (check with `git log --oneline`)
-- [ ] Each commit message describes the task (not `update` or `done`)
-- [ ] I can run `status → branch → add → commit → push` without looking up commands
+- [x] My branch `<my-username>` exists on the remote
+- [x] Ten task files plus one reflection file live in `submissions/<my-username>/`
+- [x] There are ten commits plus one reflection commit on my branch (check with `git log --oneline`)
+- [x] Each commit message describes the task (not `update` or `done`)
+- [x] I can run `status → branch → add → commit → push` without looking up commands
 
 ## Resources
 
